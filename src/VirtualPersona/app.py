@@ -11,15 +11,15 @@ class Actions():
         self.activiery = 1
         self.__doc__ = 2
 
-    def resistance(self):
-        print("resistance")
+    def rec(self):
+        print("recording")
     
     def adaptation(self):
         print('adaptation')
     
-    def worry(self):
-        print("attack")
+    def delete(self):
+        print("delete")
 
 
 person = VirtualPersonaData()
-person.action_now.resistance()
+person.action_now.rec()
