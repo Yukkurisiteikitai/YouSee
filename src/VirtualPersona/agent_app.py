@@ -69,10 +69,7 @@ def log_Save():
             f.write(json.dumps(entry,ensure_ascii=False)+ "\n")
 
 
-logAdd(LogType.CREATE,"Start analysis agent")
-logAdd(LogType.CREATE,"Clear Boot AI Agent")
-
-
-
+# logAdd(LogType.CREATE,"Start analysis agent")
+# logAdd(LogType.CREATE,"Clear Boot AI Agent")
 
 log_Save()
