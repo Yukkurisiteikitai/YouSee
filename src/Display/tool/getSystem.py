@@ -38,5 +38,5 @@ def chat(text,
             if content:
                 response_text += content
                 yield content
-    else:  #
+    else:  #˜
         messages += [{'role': 'assistant', 'content': response_text}]
