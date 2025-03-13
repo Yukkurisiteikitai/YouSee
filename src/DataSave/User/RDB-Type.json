@@ -1,0 +1,92 @@
+{
+    "What_happened_in_childhood": [
+    "Personality_traits",
+    "Self_awareness",
+    "Parents",
+    "Trauma",
+    "Beliefs",
+    "Interests",
+    "Interpersonal_style"
+    ],
+    "Beliefs": [
+    "Personality_traits",
+    "Parents",
+    "Trauma",
+    "Self_awareness"
+    ],
+    "Values": [
+    "Ideals",
+    "Clash_of_values",
+    "Empathy"
+    ],
+    "Interests": [
+    "Hobbies"
+    ],
+    "Ideals":[
+    "Hobbies"
+    ],
+    "Dreams":[
+    "Hobbies"
+    ],
+    "Failures": [
+    "Learning",
+    "Beliefs",
+    "Interests",
+    "Complexes",
+    "Emotional_triggers",
+    "Trauma",
+    "Anxiety_about_the_future"
+    ],
+    "Learning": [
+    "Values",
+    "Self_awareness",
+    "How_to_deal_with_conflicts"
+    ],
+    "Clash_of_values": [],
+    "Self_awareness": [
+    "How_to_deal_with_conflicts",
+    "History_of_interpersonal_relationships"
+    ],
+    "Anxiety_about_the_future": [
+    "Hope"
+    ],
+    "Hope": [],
+    "History_of_interpersonal_relationships": [
+    "How_to_deal_with_conflicts",
+    "Emotional_triggers"
+    ],
+    "Empathy": [
+    "Hobbies"
+    ],
+    "Emotional_triggers": [
+    "Rationality",
+    "Anger",
+    "Sadness",
+    "Happiness"
+    ],
+    "Rationality": [
+    "Happiness",
+    "Anger",
+    "Sadness",
+    "Happiness",
+    "Trauma"
+    ],
+    "Nothing": [],
+    "How_to_deal_with_conflicts": [
+    "Methods_of_resolution"
+    ],
+    "Methods_of_resolution": [],
+    "Happiness": [],
+    "Anger": [],
+    "Sadness": [],
+    "Parents": [
+    "Trauma"
+    ],
+    "Thought process": [
+    "Habits of speech and behavior"
+    ],
+    "Behavioral Habits": [
+    "Self_Awareness"
+    ],
+    "Trauma": []
+    }
