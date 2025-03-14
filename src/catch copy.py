@@ -11,15 +11,21 @@ def ask(question):
 
     try:
         completion = openai.ChatCompletion.create(
-            model="deepseek-r1-distill-llama-8b",  # LM Studio で動作しているモデル名
+            model="qwen2.5-7b-instruct-1m",  # LM Studio で動作しているモデル名
             messages=converty
         )
 
         answer = completion.choices[0].message.content
         converty.append({"role": "assistant", "content": answer})  # スペル修正済み
 
-        print(answer)
-
+        # print(answer)
+        return answer
 
     except Exception as e:
         print("Error:", e)
+
+q = ""
+
+while True:
+    q = input("q:")
+    print(ask(q))

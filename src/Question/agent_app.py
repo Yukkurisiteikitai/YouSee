@@ -2,7 +2,7 @@ import json
 
 # paths
 User_Name = "iz"
-DB_path = "../DataSave"
+DB_path = "./DataSave"
 template_path = f"{DB_path}/DB-sample.json"
 humanity_save_path = f"{DB_path}/User/{User_Name}/humanity.json"
 
