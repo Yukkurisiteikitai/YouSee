@@ -1,6 +1,7 @@
 {"tag":"性格","context":"自由人な人"}
 {"tag":"へんこ","context":"おいえ"}
 {
+
     "id": 2,
     "tag": "行動パターン.冒険好き",
     "info_type": "テキスト",
@@ -12,5 +13,19 @@
         {"id": 2, "weight": 0.5}
     ],
     "Get_date": "2024-03-22 15:05",
+    "source": "saika"
+},
+{
+    "id": 3,
+    "tag": ["行動パターン","冒険好き"],
+    "info_type": "string",
+    "info": "アンガエお3",
+    "connect_id": [
+        {"id": 0, "weight": 0.8},
+        {"id": 2, "weight": 1.0},
+        {"id": 4, "weight": 0.6},
+        {"id": 2, "weight": 0.5}
+    ],
+    "Get_date": "2025-02-29 01:05",
     "source": "saika"
 },

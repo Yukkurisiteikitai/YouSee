@@ -18,5 +18,5 @@ for i in data['questions']:
 
 
 # File入力
-with open(humanity_save_path,"w")as f:
+with open(humanity_save_path,"w",encoding=)as f:
     json.dump(data,f,ensure_ascii=False,indent=4)
